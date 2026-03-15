@@ -3,21 +3,21 @@ This repository contains the tasks completed during my internship at SaiKet Syst
 
 
 ## Task 1
-Portfolio Website Development  
+Data Overview,Sorting and Filtering
 Video Demonstration: task1-demo.mp4
 
 ## Task 2
-Data Analysis Dashboard  
+Churn Count Visualization
 Video Demonstration: task2-demo.mp4
 
 ## Task 3
-Machine Learning Implementation  
+Tenure Distribution Visualization
 Video Demonstration: task3-demo.mp4
 
 ## Task 4
-Web Application Feature  
+Churn Vs Tenure 
 Video Demonstration: task4-demo.mp4
 
 ## Task 5
-Final Project  
+Heat map gradient using colour scales
 Video Demonstration: task5-demo.mp4
